@@ -9,6 +9,8 @@
 
 ![Lac Nhi's github stats](https://github-readme-stats.vercel.app/api?username=lacjnhi&theme=dark&show_icons=true&count_private=true&icon_color=99CCFF)
 
+![vis.jpg](https://visitor-badge.glitch.me/badge?page_id=lacjnhi)
+
 
 
 
