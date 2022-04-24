@@ -1,6 +1,6 @@
 ### Hello Lac Nhi's World 🌌
 
-💻: Computer Science Student at University of Texas at Dallas 
+💻: CS @ UTDallas
 <br/>
 📧: lcnhi.ng@gmail.com
 
