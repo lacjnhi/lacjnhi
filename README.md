@@ -1,4 +1,4 @@
-### Hello Lac Nhi's World 🌌
+### Hello, I am Lac Nhi 🌌
 
 💻: CS @ UTDallas
 <br/>
